@@ -24,4 +24,14 @@ Our extension will be added to our extensions.
 Now press the Extensions button on the Chrome bar, and pin the extension to the Chrome bar.
 
 we can run our extension like an HTML page accessing 
-chrome-extension://<extension-ID>/<default-page>
+chrome-extension://extension-ID/default-page
+for exmaple:
+
+![image](https://github.com/AngelGuante/Boilerplate_React_Chome-Extension/assets/49294128/fe0f4107-4baf-4cdc-b736-79965012fa68)
+
+For this extension the path will be:
+chrome-extension://illgdlhnehkohphhlpigmhimphmmmdap/popup.html
+
+![image](https://github.com/AngelGuante/Boilerplate_React_Chome-Extension/assets/49294128/a39ac847-4e2e-4506-85b2-94fc15d834ac)
+
+
