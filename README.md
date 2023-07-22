@@ -34,4 +34,8 @@ chrome-extension://illgdlhnehkohphhlpigmhimphmmmdap/popup.html
 
 ![image](https://github.com/AngelGuante/Boilerplate_React_Chome-Extension/assets/49294128/a39ac847-4e2e-4506-85b2-94fc15d834ac)
 
+## Test Content Scripts
+* Go to https://www.google.com/
+* You will see the next message under Google logo:
+  ![image](https://github.com/AngelGuante/Boilerplate_React_Chome-Extension/assets/49294128/8001f79b-afe7-4c4c-9dd8-5cbef798cf40)
 
