@@ -25,17 +25,19 @@ Now press the Extensions button on the Chrome bar, and pin the extension to the 
 
 we can run our extension like an HTML page accessing 
 chrome-extension://extension-ID/default-page
-for exmaple:
+for example:
 
 ![image](https://github.com/AngelGuante/Boilerplate_React_Chome-Extension/assets/49294128/fe0f4107-4baf-4cdc-b736-79965012fa68)
 
-For this extension the path will be:
+For this extension, the path will be:
 chrome-extension://illgdlhnehkohphhlpigmhimphmmmdap/popup.html
 
 ![image](https://github.com/AngelGuante/Boilerplate_React_Chome-Extension/assets/49294128/a39ac847-4e2e-4506-85b2-94fc15d834ac)
 
 ## Test Content Scripts
 * Go to https://www.google.com/
-* You will see the next message under Google logo:
+  Or click on the popupChromee extension to test Chrome Tabs API
+  ![image](https://github.com/AngelGuante/Boilerplate_React_Chome-Extension/assets/49294128/7264f160-0d96-4519-9645-b3c005c36539)
+* You will see the next message under the Google logo:
   ![image](https://github.com/AngelGuante/Boilerplate_React_Chome-Extension/assets/49294128/8001f79b-afe7-4c4c-9dd8-5cbef798cf40)
 
