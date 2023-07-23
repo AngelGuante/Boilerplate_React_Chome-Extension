@@ -5,7 +5,7 @@ This project is a Boilerplate of a Chrome extension using React and Webpack.
 ## Install dependencies
 
 ```
-npm update
+npm install
 ```
 
 ## Generate Chrome build files using webpack and babel
