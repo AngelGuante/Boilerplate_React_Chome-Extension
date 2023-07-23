@@ -36,8 +36,10 @@ chrome-extension://illgdlhnehkohphhlpigmhimphmmmdap/popup.html
 
 ## Test Content Scripts
 * Go to https://www.google.com/
-  Or click on the popupChromee extension to test Chrome Tabs API
-  ![image](https://github.com/AngelGuante/Boilerplate_React_Chome-Extension/assets/49294128/7264f160-0d96-4519-9645-b3c005c36539)
+
+  Or click on the popup Chrome extension to test Chrome Tabs API
+  
+  ![image](https://github.com/AngelGuante/Boilerplate_React_Chome-Extension/assets/49294128/1f817a9b-0450-411d-87b2-15451758f757)
 * You will see the next message under the Google logo:
   ![image](https://github.com/AngelGuante/Boilerplate_React_Chome-Extension/assets/49294128/8001f79b-afe7-4c4c-9dd8-5cbef798cf40)
 
